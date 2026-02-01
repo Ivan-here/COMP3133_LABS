@@ -1,0 +1,14 @@
+{
+  "name": "Lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "private": true,
+  "dependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
